@@ -1,0 +1,2 @@
+# Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau
+Cosmetic Insights is a Tableau-based data analytics project that analyzes cosmetics data to identify market trends, consumer preferences, brand performance, pricing patterns, and skin-type suitability. Interactive dashboards provide actionable insights to support data-driven business decisions and product strategies.
