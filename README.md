@@ -1,4 +1,4 @@
-# Cosmetic Insights
+ # Cosmetic Insights
 
 Open live dashboard: [Click here](https://nishadafsheen-source.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/)
 
@@ -61,3 +61,7 @@ The sample dataset included here is illustrative. Replace it with your actual co
 ## GitHub Pages
 
 This project is ready to publish on GitHub Pages. The site opens to the dashboard automatically through `index.html`.
+=======
+# Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau
+Cosmetic Insights is a Tableau-based data analytics project that analyzes cosmetics data to identify market trends, consumer preferences, brand performance, pricing patterns, and skin-type suitability. Interactive dashboards provide actionable insights to support data-driven business decisions and product strategies.
+>>>>>>> origin/main
