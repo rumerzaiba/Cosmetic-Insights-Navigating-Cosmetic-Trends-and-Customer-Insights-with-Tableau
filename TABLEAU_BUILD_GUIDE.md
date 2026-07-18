@@ -4,6 +4,17 @@
 
 This guide turns the cosmetics dataset into a Tableau workbook with interactive dashboards and reusable calculated fields.
 
+## Rubric Alignment
+
+- Data collection & extraction: use `data/cosmetics_sample.csv`
+- Data preparation: clean and standardize the source fields before building visuals
+- Data visualizations: create 5 unique worksheet visuals
+- Dashboard: combine the sheets into one responsive workbook
+- Story: build 3 to 5 scenes that walk through the insights
+- Performance testing: validate filters, calculations, and load time on the 10,001-row dataset
+- Web integration: publish the final dashboard and include the live link in the README
+- Project demonstration & documentation: keep the report, executive summary, and notes in the repo
+
 ## 1. Connect the Data
 
 1. Open Tableau Desktop.
@@ -18,6 +29,7 @@ This guide turns the cosmetics dataset into a Tableau workbook with interactive 
 - Remove duplicate rows if your source data contains them.
 - Standardize category names and skin-type labels.
 - Filter out null values for required fields such as brand, category, price, and rating.
+- Confirm the data has 10,001 rows so the workbook can be used for performance review.
 
 ## 3. Create Calculated Fields
 

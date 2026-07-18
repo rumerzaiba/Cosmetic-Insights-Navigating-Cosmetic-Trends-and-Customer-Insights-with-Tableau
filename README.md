@@ -1,8 +1,13 @@
- # Cosmetic Insights
+# Cosmetic Insights
 
-Open live dashboard: [Click here](https://nishadafsheen-source.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/)
+Open live dashboard: [Click here](https://rumerzaiba.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/)
 
-Cosmetic Insights is a Tableau-based data analytics project that examines cosmetics data to uncover market trends, consumer preferences, brand performance, pricing patterns, and skin-type suitability. The project uses interactive dashboards to present actionable insights that support data-driven business decisions and product strategy.
+Cosmetic Insights is a Tableau-based data analytics project that analyzes cosmetics data to identify market trends, consumer preferences, brand performance, pricing patterns, and skin-type suitability. Interactive dashboards provide actionable insights to support data-driven business decisions and product strategies.
+
+## Direct Access
+
+- GitHub repository: https://github.com/rumerzaiba/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau
+- Live dashboard: https://rumerzaiba.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/
 
 ## Project Goal
 
@@ -25,6 +30,7 @@ Identify what customers buy, which brands perform best, how pricing affects dema
 - Tableau build guide
 - Executive summary
 - Presentation notes
+- Submission checklist aligned to the rubric
 
 ## Key Metrics
 
@@ -34,6 +40,8 @@ Identify what customers buy, which brands perform best, how pricing affects dema
 - Product count by category
 - Brand performance by sales and rating
 - Skin-type suitability distribution
+- Visualization count
+- Story scene count
 
 ## Suggested Tableau Dashboards
 
@@ -52,16 +60,13 @@ Identify what customers buy, which brands perform best, how pricing affects dema
 - [Tableau build guide](TABLEAU_BUILD_GUIDE.md)
 - [Executive summary](EXECUTIVE_SUMMARY.md)
 - [Presentation notes](PRESENTATION_NOTES.md)
+- [Submission checklist](PROJECT_SUBMISSION_CHECKLIST.md)
 - [Sample dataset](data/cosmetics_sample.csv)
 
 ## Notes
 
-The sample dataset included here is illustrative. Replace it with your actual cosmetics dataset before publishing final dashboard results.
+The sample dataset included here is illustrative. The project currently includes 10,001 data rows in `data/cosmetics_sample.csv`, which is enough to support dashboard testing, filtering, and performance review.
 
 ## GitHub Pages
 
 This project is ready to publish on GitHub Pages. The site opens to the dashboard automatically through `index.html`.
-=======
-# Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau
-Cosmetic Insights is a Tableau-based data analytics project that analyzes cosmetics data to identify market trends, consumer preferences, brand performance, pricing patterns, and skin-type suitability. Interactive dashboards provide actionable insights to support data-driven business decisions and product strategies.
->>>>>>> origin/main
