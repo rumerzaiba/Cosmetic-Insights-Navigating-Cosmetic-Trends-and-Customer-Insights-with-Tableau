@@ -1,13 +1,13 @@
 # Cosmetic Insights
 
-Open live dashboard: [Click here](https://rumerzaiba.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/)
+Open live dashboard: [Click here](https://nishadafsheen-source.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/dashboard.html)
 
 Cosmetic Insights is a Tableau-based data analytics project that analyzes cosmetics data to identify market trends, consumer preferences, brand performance, pricing patterns, and skin-type suitability. Interactive dashboards provide actionable insights to support data-driven business decisions and product strategies.
 
 ## Direct Access
 
 - GitHub repository: https://github.com/rumerzaiba/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau
-- Live dashboard: https://rumerzaiba.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/
+- Live dashboard: https://nishadafsheen-source.github.io/Cosmetic-Insights-Navigating-Cosmetic-Trends-and-Customer-Insights-with-Tableau/dashboard.html
 
 ## Project Goal
 
